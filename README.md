@@ -1,1 +1,1 @@
-# Leetcode-problems-images
+# LC-problem-images
